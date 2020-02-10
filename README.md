@@ -90,7 +90,7 @@ class CfgTraderCategories
 
 Step 7. Find >>>>> class CfgTraders <<<<< And in that Find >>>>> class Exile_Trader_Vehicle <<<<<
 
-and add all 6 of these >>>>> >"AllTerrainVehicles",<>"IvoryCars",<>"IvoryMarkedPoliceCars",<>"IvoryUnmarkedPoliceCars",<>"IvorySlicktopPoliceCars",<>"IvoryTaxis"< <<<<<. 
+and add all 6 of these >>>>> >"AllTerrainVehicles",<>"IvoryCars"< <<<<<. 
 
 Step 7 Example
 
@@ -120,11 +120,7 @@ class Exile_Trader_Vehicle
    "Cars",
    "Trucks",
    "AllTerrainVehicles",
-   "IvoryCars",
-   "IvoryMarkedPoliceCars",
-   "IvoryUnmarkedPoliceCars",
-   "IvorySlicktopPoliceCars",
-   "IvoryTaxis"
+   "IvoryCars"
   };
  };
 ////////////////////////////////////////////////////////////////////// 
