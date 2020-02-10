@@ -1,7 +1,7 @@
 # 3-Mods-In-1.-Trader-Master
 This Download Includes.    @6x6 All Terrain Vehicle > @Ivory Car Pack [Official] > @RKSL Studios-LCVP Mk5 Landing Craft 
 
-This File Is Better To Read In Notepad++. 
+This File Is harder to read due to the coding. I recomend downloading and using Notepad++ or go to exilemod.net/topic/207-3-mods-in-1-trader-master/
 
 This is the Exile trader files for > @6x6AllTerrainVehicle <> @IvoryCarPack[Official] <> @RKSLStudios-LCVPMk5LandingCraft <
 DOWNLOAD>>>>> https://github.com/campbell996/3-Mods-In-1-Trader-Master <<<<< DOWNLOAD
