@@ -14,10 +14,10 @@ Find...    class CfgTraders
 Find...    class Exile_Trader_Vehicle
 Add....	   "AllTerrainVehicles",
      	   "IvoryCars",
-		   "IvoryMarkedPoliceCars",
-		   "IvoryUnmarkedPoliceCars",
-		   "IvorySlicktopPoliceCars",
-		   "IvoryTaxis"
+           "IvoryMarkedPoliceCars",
+	   "IvoryUnmarkedPoliceCars",
+	   "IvorySlicktopPoliceCars",
+	   "IvoryTaxis"
 		
 Find...    class Exile_Trader_Boat
 Add....	   "Mk5Crafts"
