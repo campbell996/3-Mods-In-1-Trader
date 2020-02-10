@@ -2,10 +2,12 @@
 This Download Includes.    @6x6 All Terrain Vehicle > @Ivory Car Pack [Official] > @RKSL Studios-LCVP Mk5 Landing Craft 
 
 This File Is Better To Read In Notepad++. 
+
 This is the Exile trader files for > @6x6AllTerrainVehicle <> @IvoryCarPack[Official] <> @RKSLStudios-LCVPMk5LandingCraft <
 DOWNLOAD>>>>> https://github.com/campbell996/3-Mods-In-1-Trader-Master <<<<< DOWNLOAD
  
 I Did Not create These Mods. But I Did Create These Trader Files. 
+
 INSTALLATION 
 Step 1. Using pbo manager extract your mission.pbo & enter the mission folder that is extracted.   http://www.armaholic.com/page.php?id=16369 
 Step 2. Create a folder called >>>>> traders <<<<<. Continue on step 3. 
