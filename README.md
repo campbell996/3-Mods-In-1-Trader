@@ -20,6 +20,7 @@ Step 4. Open your >>>>> config.cpp <<<<< file using notepad++. Continue on step 
 Step 5. Find >>>>> class CfgExileArsenal <<<<< and add this at the top >>>>> #include "traders\3IN1\ItemList3IN1.hpp" <<<<<.
 
 Step 5 Example
+
 This is what it is before.
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 class CfgExileArsenal
@@ -49,6 +50,7 @@ class CfgExileArsenal
 Step 6. Find >>>>> class CfgTraderCategories <<<<< and add this at the top >>>>> #include "traders\3IN1\TraderCategories3IN1.hpp" <<<<<.
 
 Step 6 Example
+
 This is what it is before.
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 class CfgTraderCategories
@@ -78,6 +80,7 @@ Step 7. Find >>>>> class CfgTraders <<<<< And in that Find >>>>> class Exile_Tra
 and add all 3 of these >>>>> >"AllTerrainVehicles",<>"IvoryCars"< <<<<<. 
 
 Step 7 Example
+
 This is what it is before.
 ////////////////////////////////////////////////////////////////////
 class Exile_Trader_Vehicle
