@@ -1,11 +1,6 @@
 # 3-Mods-In-1.-Trader-Master
 This Download Includes.    @6x6 All Terrain Vehicle > @Ivory Car Pack [Official] > @RKSL Studios-LCVP Mk5 Landing Craft 
 
-This Installation Requires 3 Mods:
-1. https://steamcommunity.com/sharedfiles/filedetails/?id=1888644057
-2. https://steamcommunity.com/sharedfiles/filedetails/?id=1190934425
-3. https://steamcommunity.com/sharedfiles/filedetails/?id=1752496126 
-  
 This File Is Better To Read In Notepad++. 
 This is the Exile trader files for > @6x6AllTerrainVehicle <> @IvoryCarPack[Official] <> @RKSLStudios-LCVPMk5LandingCraft <
 DOWNLOAD>>>>> https://github.com/campbell996/3-Mods-In-1-Trader-Master <<<<< DOWNLOAD
@@ -103,7 +98,12 @@ class Exile_Trader_Vehicle
 
 Step 8. Find >>>>> class CfgTraders <<<<< And in that Find >>>>> class Exile_Trader_Boat <<<<<
 and add this >>>>> > "Mk5Crafts" <<<<< Same as above example. except in the >>>>> class Exile_Trader_Boat <<<<<. 
+
 Step 9. Download All 3 Of These Mods >>>>> @6x6 All Terrain Vehicle <> @Ivory Car Pack [Official] <> @RKSL Studios-LCVP Mk5 Landing Craft <<<<< from either the A3Launcher or from the Steam Workshop.
+This Installation Requires 3 Mods:
+1. https://steamcommunity.com/sharedfiles/filedetails/?id=1888644057
+2. https://steamcommunity.com/sharedfiles/filedetails/?id=1190934425
+3. https://steamcommunity.com/sharedfiles/filedetails/?id=1752496126
  
 Step 10. Copy All 3 Of The Mods You Just Downloaded And Add Them To Your Exile Server Root Folder. And Remove All Spacing In The Folders Names.
 Step 10 Example      BEFORE: @RKSL Studios-LCVP Mk5 Landing Craft   AFTER: @RKSLStudios-LCVPMk5LandingCraft
