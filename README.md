@@ -22,6 +22,7 @@ Step 5. Find >>>>> class CfgExileArsenal <<<<< and add this at the top >>>>> #in
 Step 5 Example
 
 This is what it is before.
+
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 class CfgExileArsenal
 {
@@ -33,7 +34,9 @@ class CfgExileArsenal
  class U_C_Poloshirt_blue       { quality = 1; price = 20; };
  
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 And this is what it should be after...
+
 class CfgExileArsenal
 {
  #include "traders\3IN1\ItemList3IN1.hpp"
@@ -52,6 +55,7 @@ Step 6. Find >>>>> class CfgTraderCategories <<<<< and add this at the top >>>>>
 Step 6 Example
 
 This is what it is before.
+
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 class CfgTraderCategories
 {
@@ -63,7 +67,9 @@ class CfgTraderCategories
   {
  
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 And this is what it should be after.
+
 class CfgTraderCategories
 {
  #include "traders\3IN1\TraderCategories3IN1.hpp"
@@ -82,6 +88,7 @@ and add all 3 of these >>>>> >"AllTerrainVehicles",<>"IvoryCars"< <<<<<.
 Step 7 Example
 
 This is what it is before.
+
 ////////////////////////////////////////////////////////////////////
 class Exile_Trader_Vehicle
  {
@@ -94,7 +101,9 @@ class Exile_Trader_Vehicle
   };
  };
 ////////////////////////////////////////////////////////////////////
+
 And this is what it should be after...   Dont forget the last catrgory cant have a > , <   but the rest must.
+
 class Exile_Trader_Vehicle
  {
   name = "VEHICLE";
