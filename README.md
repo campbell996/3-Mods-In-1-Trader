@@ -8,7 +8,7 @@ This Installation Requires 3 Mods:
   
 This File Is Better To Read In Notepad++. 
 This is the Exile trader files for > @6x6AllTerrainVehicle <> @IvoryCarPack[Official] <> @RKSLStudios-LCVPMk5LandingCraft <
-DOWNLOAD>>>>> https://github.com/campbell996/4-Mods-In-1.-Trader-Master <<<<< DOWNLOAD
+DOWNLOAD>>>>> https://github.com/campbell996/3-Mods-In-1-Trader-Master <<<<< DOWNLOAD
  
 I Did Not create These Mods. But I Did Create These Trader Files. 
 INSTALLATION 
