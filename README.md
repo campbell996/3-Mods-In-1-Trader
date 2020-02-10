@@ -1,7 +1,7 @@
 # 3-Mods-In-1.-Trader-Master
 This Download Includes.    @6x6 All Terrain Vehicle > @Ivory Car Pack [Official] > @RKSL Studios-LCVP Mk5 Landing Craft 
 
-This Installation Requires 4 Mods:
+This Installation Requires 3 Mods:
 1. https://steamcommunity.com/sharedfiles/filedetails/?id=1888644057
 2. https://steamcommunity.com/sharedfiles/filedetails/?id=1190934425
 3. https://steamcommunity.com/sharedfiles/filedetails/?id=1752496126 
